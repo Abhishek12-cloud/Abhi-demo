@@ -1,2 +1,2 @@
 # Abhi-demo
-This is my first demo repository 
+This is my first git repository 
